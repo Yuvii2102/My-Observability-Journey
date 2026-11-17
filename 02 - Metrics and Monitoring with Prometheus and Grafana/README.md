@@ -1,4 +1,4 @@
-# Metrics and Monitoring with Prometheus and Grafana
+# Day 2 – Metrics and Monitoring with Prometheus and Grafana
 
 ## 1. What are Metrics?
 
